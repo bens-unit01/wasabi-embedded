@@ -1,0 +1,3 @@
+/home/pi/wasabi-embedded/wakeword-app/src/CMakeFiles/edit_cache.dir
+/home/pi/wasabi-embedded/wakeword-app/src/CMakeFiles/rebuild_cache.dir
+/home/pi/wasabi-embedded/wakeword-app/src/CMakeFiles/wakeWordAgent.dir

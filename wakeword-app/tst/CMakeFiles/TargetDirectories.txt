@@ -1,0 +1,1 @@
+/home/pi/alexa-tests/alexa-avs-sample-app/samples/wakeWordAgent/tst/CMakeFiles/wakeWordAgentTest.dir
